@@ -1,5 +1,6 @@
 #a variable= a reusable container for storing a value
 #a variable behaves as if it were the value it contains  example
+
 age = 25
 gpa = 3.2
 distance = 2.5

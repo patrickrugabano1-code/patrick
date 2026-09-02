@@ -50,16 +50,4 @@ fname="patrick"
 lname="rugabano"
 fullname=(fname+lname)
 
-# While we did some math earlier, I'd like you to try doing math with variables this time. (If you already did this, you can skip this. Good job.)
-a=15
-b=10 
-print(a + b)
-print(b * a)
-
-# Lastly, do something of your own choice. Anything that involves variables and expressions is allowed here.
-# If you're stumped on ideas, just try and make an expression that converts Celsius to Fahrenheit or vice versa.
-d=5
-c=10
-print(a - d)
-print(c + d)
-# Upload this to Canvas under the Variable and Expressions Lab assignment.
+# While we did some math earlier, I'd like you to try doing math with variables this time. (If you already did thi

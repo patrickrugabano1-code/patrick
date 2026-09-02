@@ -4,4 +4,7 @@
 #should usually start with a lowercase
 #use underscores to separete words
 # if we want to add strings together  is it called string concatenation
-#
+percentage = 15
+number = 200
+answer = (percentage / 100)* number
+print(answer)
