@@ -7,8 +7,10 @@
 name="patrick"
 user="patrick2026"
 loginpasswor="Pat123@$"
-if user == ('patrick2026l,logged in'):
+if len(loginpasswor) >= 8:
     print("2you have access")
+else:
+    print("password too short")
 
 
 #. Create an age classifier. Categorize them as child, teenager,
