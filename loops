@@ -1,0 +1,54 @@
+# #loops reoeats code
+
+# for number in range (3):
+# # print hello each time the loops runs    
+#     print("hello")
+
+# #WHile loops 
+# #repeats while a connditions is true 
+# number=1 #this is our starting point
+
+# #keep looping while number is less than or equal 5
+# while number<=5:
+# #this id essentially, where will it stop
+#     print(number)
+#     number+=1
+
+# #a while loop is useful when you want to ask until use gives a valid answer
+# #ask the user for their age
+
+# age=int(input("Enter you age: "))
+
+# #keep looping if the age is less than 21 or greater than 120
+# while age < or age >120:
+#     #tell the user, invalid input
+#     print("invalid Age ")
+
+#     #ask the user to enter their age again
+#     age=in(input("Enter your age: "))
+# #this runs after the loop finished
+# print("thank you")
+
+# #FOR LOOPS
+# #a for loops works through items one at a time
+
+# #create a list containing 3 game
+# games=["Minecraft", "mario", "zelder"]
+# for game in games:
+#     print(game)
+
+# #Range
+# #range () create a sequence of number
+
+# for number in range(2,8):
+#      #starting number, stop right before this number
+# print(number)
+# #remember: the ending number in rannge( ) ia not includiung
+
+# #we can also perfor calculation inside the loop:
+# #loop through numbers 2 through 7
+# for number in range(2,8):
+#     #multiply the number by itself
+#     square=number*number
+#     #print the square number
+#     print(square)
