@@ -7,15 +7,17 @@
 name="patrick"
 user="patrick2026"
 loginpasswor="Pat123@$"
-if user == ('patrick2026l,logged in'):
+if len(loginpasswor) >= 8:
     print("2you have access")
+else:
+    print("password too short")
 
 
 #. Create an age classifier. Categorize them as child, teenager,
 
 age=int(input("what is your age?"))
-if age>=25 or age<=40:
-    print("you are adult")
+if age>=25 and age<=40:
+    print("3you are in the prime working years")
 if age<10:
     print("you are a child")
 if age >70:
